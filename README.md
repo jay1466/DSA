@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jay1466/DSA/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jay1466/DSA/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/jay1466/DSA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jay1466/DSA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |

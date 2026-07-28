@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jay1466/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jay1466/DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jay1466/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/jay1466/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/jay1466/DSA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1466/DSA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/jay1466/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

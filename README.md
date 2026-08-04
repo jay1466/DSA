@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jay1466/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
+| [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jay1466/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jay1466/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/jay1466/DSA/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |

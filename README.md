@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jay1466/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jay1466/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/jay1466/DSA/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->

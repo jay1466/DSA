@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jay1466/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jay1466/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jay1466/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jay1466/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jay1466/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jay1466/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

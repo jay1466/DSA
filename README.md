@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jay1466/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jay1466/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,8 +146,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

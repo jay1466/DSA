@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jay1466/DSA/tree/master/0283-move-zeroes) |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/jay1466/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jay1466/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jay1466/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jay1466/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jay1466/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/jay1466/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jay1466/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/jay1466/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/jay1466/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jay1466/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/jay1466/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax

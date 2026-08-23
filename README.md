@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jay1466/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jay1466/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/jay1466/DSA/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jay1466/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jay1466/DSA/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/jay1466/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1466/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jay1466/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/jay1466/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/jay1466/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/jay1466/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1466/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |

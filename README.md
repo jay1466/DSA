@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jay1466/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/jay1466/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/jay1466/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/jay1466/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jay1466/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/jay1466/DSA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/jay1466/DSA/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/jay1466/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/jay1466/DSA/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1466/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
